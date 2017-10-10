@@ -1,0 +1,23 @@
+#top{
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+#gallows {
+	margin-left: 35%;
+	margin-right: 30%;
+}
+#word {
+	margin-left: 44%;
+	margin-bottom: 48%;
+	font-size: 68px;
+}
+#note {
+	margin-left: 44%;
+	margin-bottom: 58%;
+	font-size: 48px;
+}
+#panel {
+	margin-left: 25%;
+	margin-right: 100px;
+}
